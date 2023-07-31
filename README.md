@@ -7,9 +7,17 @@
 
 ## blog related
 
+### Unittest
+
+- [EN] [Python testing - module unittest](https://www.bluebirz.net/en/python-testing-unittest/)
+- [TH] [Python testing - มารู้จัก module unittest](https://www.bluebirz.net/th/python-testing-unittest-th/)
+- [Medium] [Python testing — module unittest](https://medium.com/@bluebirz/python-testing-module-unittest-1fd6dae52ebf)
+
+### Pytest
+
 - [EN] [Python testing - module pytest](https://www.bluebirz.net/en/python-testing-pytest/)
 - [TH] [Python testing - มารู้จัก module pytest](https://www.bluebirz.net/th/python-testing-pytest-th/)
-- [Medium] [Python testing — module unittest](https://medium.com/@bluebirz/python-testing-module-unittest-1fd6dae52ebf)
+- [Medium] [Python testing — module pytest](https://medium.com/@bluebirz/python-testing-module-pytest-95ef51953457)
 
 ## How to run
 
@@ -30,5 +38,5 @@
 - run test script in `tests/my-pytest` using
 
     ```bash
-    pytest <flag> tests/my-unittest/<file.py>
+    pytest <flag> tests/my-pytest/<file.py>
     ```
