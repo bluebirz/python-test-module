@@ -9,14 +9,12 @@
 
 ### Unittest
 
-- [EN] [Python testing - module unittest](https://www.bluebirz.net/en/python-testing-unittest/)
-- [TH] [Python testing - มารู้จัก module unittest](https://www.bluebirz.net/th/python-testing-unittest-th/)
+- [Blog] [Python testing - module unittest](https://bluebirz.net/posts/python-testing-unittest/)
 - [Medium] [Python testing — module unittest](https://medium.com/@bluebirz/python-testing-module-unittest-1fd6dae52ebf)
 
 ### Pytest
 
-- [EN] [Python testing - module pytest](https://www.bluebirz.net/en/python-testing-pytest/)
-- [TH] [Python testing - มารู้จัก module pytest](https://www.bluebirz.net/th/python-testing-pytest-th/)
+- [Blog] [Python testing - module pytest](https://bluebirz.net/posts/python-testing-pytest/)
 - [Medium] [Python testing — module pytest](https://medium.com/@bluebirz/python-testing-module-pytest-95ef51953457)
 
 ## How to run
